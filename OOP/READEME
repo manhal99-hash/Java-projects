@@ -1,1 +1,37 @@
+# Objektorientierte Programmierung (OOP) – Java Projekt
+
+Dieses Projekt demonstriert **Objektorientierte Programmierung** in Java durch die Erstellung und Interaktion verschiedener Objekte.  
+Ziel ist es, OOP-Konzepte wie **Klassen, Objekte, Methoden, Kapselung, Konstruktoren und Interaktionen zwischen Objekten** zu üben.
+
+## Inhalt
+
+- **Klassen und Objekte**  
+  - Mehrere Java-Klassen, die reale oder abstrakte Objekte darstellen (z. B. Person, Auto, Produkt)  
+  - Objekte werden instanziiert und miteinander interagieren  
+
+- **Methoden und Konstruktoren**  
+  - Konstruktoren zur Initialisierung von Objekten  
+  - Methoden zur Veränderung des Objektzustands oder zur Durchführung von Aktionen  
+
+- **OOP-Konzepte**  
+  - Kapselung (private Attribute + Getter/Setter)  
+  - Interaktion zwischen Objekten  
+  - Möglichkeit zur Erweiterung durch Vererbung oder Polymorphie  
+
+## Ziel des Projekts
+
+- Verständnis von **OOP-Strukturen** in Java  
+- Übung im **modellieren realer Objekte in Code**  
+- Vorbereitung auf **größere Softwareprojekte**  
+
+## Nutzung
+
+- Jede Klasse liegt als `.java`-Datei vor  
+- Kompilieren: `javac Klassenname.java`  
+- Ausführen: `java Hauptklasse` (z. B. `Main.java`)
+
+## Hinweise
+
+- Alle Dateien enthalten **Kommentare**, die erklären, welche Objekte erstellt werden und wie sie interagieren.  
+- Ideal, um **OOP-Konzepte praktisch zu verstehen**.
 
